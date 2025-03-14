@@ -1,4 +1,9 @@
 # API Management Application
+# Start Generation Here
+## Screenshots
+Here are some screenshots of the application in action:
+
+![Screenshot 1](docs/images/api-key-screenshot.png)
 
 ## Overview
 This is a Next.js TypeScript application for managing API keys with Supabase authentication and database integration.
