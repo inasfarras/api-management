@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Folder 1 (back) -->
+  <path d="M170 40H110L100 30H30C24.5 30 20 34.5 20 40V150C20 155.5 24.5 160 30 160H170C175.5 160 180 155.5 180 150V50C180 44.5 175.5 40 170 40Z" stroke="#1F2937" stroke-width="8" fill="none"/>
+  
+  <!-- Folder 2 (front) -->
+  <path d="M150 60H90L80 50H30C24.5 50 20 54.5 20 60V150C20 155.5 24.5 160 30 160H150C155.5 160 160 155.5 160 150V70C160 64.5 155.5 60 150 60Z" stroke="#1F2937" stroke-width="8" fill="white"/>
+  
+  <!-- API Text -->
+  <path d="M55 120L65 80H75L85 120H75L73 110H67L65 120H55ZM68 100H72L70 90L68 100Z" fill="#1F2937"/>
+  <path d="M90 80H110C115 80 120 85 120 90V110C120 115 115 120 110 120H90V80ZM100 90V110H110V90H100Z" fill="#1F2937"/>
+  <path d="M125 80H135V120H125V80Z" fill="#1F2937"/>
+</svg> 

@@ -1,0 +1,16 @@
+<svg width="110" height="40" viewBox="0 0 110 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Colorful icon part -->
+    <path d="M12 8L20 20L28 8H12Z" fill="#FF5757" />
+    <path d="M12 8L4 20L12 32L20 20L12 8Z" fill="#5E17EB" />
+    <path d="M28 8L20 20L28 32L36 20L28 8Z" fill="#00C6FF" />
+    
+    <!-- Text part -->
+    <path d="M45 15H48V25H45V15Z" fill="#333333" />
+    <path d="M50 15H53L56 22L59 15H62V25H59V19L56 25H53L50 19V25H47V15H50Z" fill="#333333" />
+    <path d="M64 15H74V18H70V25H67V18H64V15Z" fill="#333333" />
+    <path d="M76 15H79V22H85V25H76V15Z" fill="#333333" />
+    <path d="M87 15H90V25H87V15Z" fill="#333333" />
+    <path d="M92 15H95V22L100 15H104L98 22L104 25H100L95 22V25H92V15Z" fill="#333333" />
+  </g>
+</svg> 
