@@ -1,5 +1,5 @@
 # API Management Application
-# Start Generation Here
+
 ## Screenshots
 Here are some screenshots of the application in action:
 
