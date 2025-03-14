@@ -57,3 +57,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Screenshot
+
+![API Key Management Interface](/docs/images/api-key-screenshot.png)
+
+The screenshot above shows the API Key management interface, which allows users to:
+- View existing API keys
+- Add new API keys
+- Manage current plan and usage
+- Perform key-related actions
